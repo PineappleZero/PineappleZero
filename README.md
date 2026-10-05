@@ -15,16 +15,12 @@ I'm a first-year **Nanomaterials and Technology** student at the School of Scien
 
 - 💻 Learning **C** — from `main()` to pointers
   学 C 语言——从 `main` 函数到指针
-- 🧮 Self-studying **Calculus A1**
-  自学微积分 A1
 - 🤖 Exploring AI-assisted workflows and **local LoRA fine-tuning**
   探索 AI 辅助工作流与本地 LoRA 微调
 - 🎬 Producing a fully AI-generated short film
   在做一部全 AI 生成的短片
 - 📷 Shooting with a Canon 60D, editing in Photoshop
   用佳能 60D 拍，用 Photoshop 修
-- 🏃 Running — 3 km under 15 minutes, first 10 km in progress
-  跑步——3 公里跑进 15 分钟，正在挑战首个 10 公里
 - 📍 From Nanjing, currently in Beijing
   故乡南京，现居北京
 
