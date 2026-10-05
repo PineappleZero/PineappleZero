@@ -121,14 +121,17 @@
 
 <br/>
 
-<!-- ═══════════════════════════ 贡献蛇 ═══════════════════════════ -->
-
+<!--
+  贡献蛇 / Contribution Snake
+  需要先给 GitHub token 补 workflow 权限，并推送 .github/workflows/snake.yml，
+  Action 跑完后删掉下面这段的注释包裹即可。
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PineappleZero/PineappleZero/output/github-contribution-grid-snake-dark.svg" />
     <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/PineappleZero/PineappleZero/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+-->
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
