@@ -1,79 +1,135 @@
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+
+<div align="center">
+  <img width="100%" alt="PineappleZero" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=PineappleZero&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Nanomaterials%20%C2%B7%20Computing%20%C2%B7%20Visual%20Creation&descAlignY=58&descSize=16&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=44&lines=%E4%B8%AD%E5%A4%AE%E6%B0%91%E6%97%8F%E5%A4%A7%E5%AD%A6+%C2%B7+%E7%BA%B3%E7%B1%B3%E6%9D%90%E6%96%99%E4%B8%8E%E6%8A%80%E6%9C%AF;Nanomaterials+%C3%97+Computing+%C3%97+Visual+Creation;C+%E8%AF%AD%E8%A8%80%EF%BC%9A%E4%BB%8E+main%28%29+%E5%88%B0%E6%8C%87%E9%92%88;%E5%85%88%E6%87%82%E5%8E%9F%E7%90%86%EF%BC%8C%E5%86%8D%E5%86%99%E4%BB%A3%E7%A0%81" />
+</div>
+
+<br/>
+
+<div align="center">
+  <kbd>🔬 纳米材料与技术</kbd>&nbsp; <kbd>🎓 理学院 · 2026 级</kbd>&nbsp; <kbd>📍 故乡南京 · 现居北京</kbd>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ 在做什么 ═══════════════════════════ -->
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🧪 学科基础</b><br/>
+      <sub>Foundations</sub><br/><br/>
+      大学物理<br/>
+      材料科学基础<br/>
+      高等数学
+    </td>
+    <td align="center" width="50%">
+      <b>💻 编程</b><br/>
+      <sub>Programming</sub><br/><br/>
+      C —— 从 <code>main()</code> 到指针<br/>
+      Python 数据处理<br/>
+      Git &amp; GitHub · 算法入门
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🎬 创意技术</b><br/>
+      <sub>Creative Tech</sub><br/><br/>
+      全 AI 短片制作<br/>
+      本地 LoRA 微调<br/>
+      Photoshop · 摄影
+    </td>
+    <td align="center" width="50%">
+      <b>⚙️ 自动化</b><br/>
+      <sub>Automation</sub><br/><br/>
+      通知监控流水线<br/>
+      壁纸引擎组件<br/>
+      个人脚本
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ 技能 ═══════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,python,git,github,vscode,nodejs,ps,md&theme=dark&perline=8" />
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=c,python,git,github,vscode,nodejs,ps,md&theme=light&perline=8" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ 数据 ═══════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PineappleZero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+    <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=PineappleZero&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PineappleZero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
+    <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineappleZero&layout=compact&hide_border=true&title_color=0969da&langs_count=6" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PineappleZero&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9e64&currStreakLabel=58a6ff" />
+    <img alt="streak" src="https://streak-stats.demolab.com?user=PineappleZero&hide_border=true" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PineappleZero&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+    <img width="100%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PineappleZero&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ 项目 ═══════════════════════════ -->
+
 <div align="center">
 
-# Hi, I'm PineappleZero 👋
+### 🛠️ 做过的东西 <sub>`Projects`</sub>
 
-### 中央民族大学 · 2026 级 · 理学院 · 纳米材料与技术
-### Nanomaterials and Technology · Minzu University of China
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PineappleZero&repo=patchwork-online&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img alt="patchwork-online" src="https://github-readme-stats.vercel.app/api/pin/?username=PineappleZero&repo=patchwork-online&hide_border=true&title_color=0969da&icon_color=0969da" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PineappleZero&repo=portal-notice-monitor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img alt="portal-notice-monitor" src="https://github-readme-stats.vercel.app/api/pin/?username=PineappleZero&repo=portal-notice-monitor&hide_border=true&title_color=0969da&icon_color=0969da" />
+</picture>
 
 </div>
 
-## About me / 关于我
+<table align="center">
+  <tr>
+    <td width="50%" align="center"><b>patchwork-online</b><br/><sub>零依赖 Node + 手写 WebSocket</sub><br/><br/>拼布 Patchwork 网页版：完整原版规则，人机对战 / 同机双人 / 2~6 人联机，外加自制「魔改版 · 混沌拼布」。只用 Node 内置模块，双击一个 bat 就能开局。</td>
+    <td width="50%" align="center"><b>portal-notice-monitor</b><br/><sub>Python · 通知监控</sub><br/><br/>给中央民族大学信息门户写的公告监控：增量比对 + 按部门/主题筛选 + 深色简报，带手动触发按钮，兜底「睡前关机错过定时任务」。</td>
+  </tr>
+</table>
 
-I'm a first-year **Nanomaterials and Technology** student at the School of Science, Minzu University of China. Most of my energy right now goes into two things: getting the science foundations solid, and teaching myself to actually program.
+<br/>
 
-我是**中央民族大学 2026 级理学院 纳米材料与技术**专业本科生。现在大部分精力放在两件事上：把理科基础打扎实，以及真正学会编程。
+<!-- ═══════════════════════════ 贡献蛇 ═══════════════════════════ -->
 
-- 💻 Learning **C** — from `main()` to pointers
-  学 C 语言——从 `main` 函数到指针
-- 🤖 Exploring AI-assisted workflows and **local LoRA fine-tuning**
-  探索 AI 辅助工作流与本地 LoRA 微调
-- 🎬 Producing a fully AI-generated short film
-  在做一部全 AI 生成的短片
-- 📷 Shooting with a Canon 60D, editing in Photoshop
-  用佳能 60D 拍，用 Photoshop 修
-- 📍 From Nanjing, currently in Beijing
-  故乡南京，现居北京
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PineappleZero/PineappleZero/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/PineappleZero/PineappleZero/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-## What I'm learning / 在学什么
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
-```text
-Foundations / 学科基础
-    ├── Calculus A1 (self-study) / 微积分 A1（自学）
-    ├── University physics / 大学物理
-    └── Materials science fundamentals / 材料科学基础
-
-Programming / 编程
-    ├── C: from main() to pointers / C 语言：从 main 函数到指针
-    ├── Python for data and scripting / Python 数据处理与脚本
-    ├── Git and GitHub
-    └── Algorithms, step by step / 算法，一步一步来
-
-Creative technology / 创意技术
-    ├── Fully AI-generated short film / 全 AI 短片
-    ├── Local LLM fine-tuning (Qwen2.5 + LoRA) / 本地大模型微调
-    ├── Photoshop
-    └── Photography / 摄影
-
-Personal automation / 个人自动化
-    ├── Notice-monitoring pipelines / 通知监控流水线
-    ├── Wallpaper Engine mods / 壁纸引擎组件
-    └── Personal scripts / 个人脚本
-```
-
-## Tools / 工具
-
-### Everyday tools / 常用工具
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Creative tools / 创作工具
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Canon](https://img.shields.io/badge/Canon%2060D-000000?style=flat-square&logo=canon&logoColor=white)
-
-### Currently learning / 正在学习
-
-![Node.js](https://img.shields.io/badge/Node.js-Learning-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Ollama](https://img.shields.io/badge/Local%20LLM-Learning-000000?style=flat-square&logo=ollama&logoColor=white)
-![AI Assisted](https://img.shields.io/badge/AI--assisted%20workflow-4B6BFB?style=flat-square)
-
-## Things I've built / 做过的东西
-
-| Project | What it is |
-| --- | --- |
-| [patchwork-online](https://github.com/PineappleZero/patchwork-online) | 拼布 Patchwork 网页版：完整原版规则的**零依赖**实现——人机对战 / 同机双人 / 2~6 人局域网联机，外加一套自制的「魔改版 · 混沌拼布」。只用 Node 内置模块，双击一个 bat 就能开局。 |
-| [portal-notice-monitor](https://github.com/PineappleZero/portal-notice-monitor) | 给中央民族大学信息门户写的公告监控：增量比对 + 按部门/主题筛选 + 深色简报输出，带手动触发按钮，用来兜底「睡前关机错过定时任务」。 |
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer" />
